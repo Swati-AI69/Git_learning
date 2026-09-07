@@ -1,2 +1,2 @@
 # Git_learning
-On my way to learnGit and GitHub
+On my way to learn Git and GitHub
